@@ -1,4 +1,7 @@
 Instagram Post Scheduler
+
+This project is to create an Instagram Post Scheduler for a small business.
+
 ========
 <a href="https://www.instagram.com/sinha.py/"><img src="https://miro.medium.com/max/1400/1*zR-cuwIFJOpQjLHExqrFkA.png" alt="Auto Post"/></a>
 
@@ -59,7 +62,3 @@ pip install PyAutoGUI
 python scheduler.py
 ```
 
-Buy Me a Coffee
-----
-
-<a href="https://www.buymeacoffee.com/b31ngD3v" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60px width=217px></a>
