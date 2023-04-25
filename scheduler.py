@@ -62,7 +62,7 @@ def post():
 
     time.sleep(2)
 
-    caption = 'Hi There, P Sinha this side !'  # Write Your Caption Here
+    caption = 'Hi There, Jumping Cat Designs!'  # Write Your Caption Here
 
     cptn = browser.find_element_by_class_name('_472V_')
     cptn.send_keys(caption)
@@ -73,19 +73,6 @@ def post():
 
     browser.quit()
 
-    print('''
-    Successfully Uploaded!
-
-    Python Program by
-      ___   ___ _      _         
-     | _ \ / __(_)_ _ | |_  __ _ 
-     |  _/ \__ \ | ' \| ' \/ _` |
-     |_|   |___/_|_||_|_||_\__,_|
-
-    Follow me on Instagram @b31ngdev
-
-    Github b31ngd3v
-    ''')
     x += 1
 
 
