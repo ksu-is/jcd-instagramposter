@@ -22,7 +22,7 @@ def post():
 
     username = 'USERNAME'  # Enter your username here
     password = 'PASSWORD'  # Enter your password here
-    file_path = r"C:\Users\P Sinha\Desktop\Capture.png"  # File Path Where Picture is Stored That You Want To Upload
+    file_path = r"C:\Users\uh\Desktop\jcdinstagramposter\Pictures\Artorias1.jpg"  # File Path Where Picture is Stored That You Want To Upload
 
     usrname_bar.send_keys(username)
     passwrd_bar.send_keys(password + Keys.ENTER)
@@ -52,10 +52,10 @@ def post():
 
     time.sleep(7)
 
-    #expnd_btn = browser.find_element_by_class_name('pHnkA')
-    #expnd_btn.click()
+    expnd_btn = browser.find_element_by_class_name('pHnkA')
+    expnd_btn.click()
 
-    #time.sleep(1)
+    time.sleep(1)
 
     nxt_btn = browser.find_element_by_class_name('UP43G')
     nxt_btn.click()
@@ -73,6 +73,12 @@ def post():
 
     browser.quit()
 
+    x += 1
+    
+    print('''
+    Successfully Uploaded!
+    ''')
+    
     x += 1
 
 
