@@ -21,3 +21,5 @@ Template started for the PPT demo. Received images for branding on it--wanted to
     Run tests to see if posts are working on the JCD IG account
         IF working, begin writing tutorial for mom
         Make updates to PPT demo
+        **UPDATE: Was having issues with getting packages to install properly. Did troubleshooting and got that fixed. Still having some issues that I'm running into.
+                  Going to move forward with PPT
