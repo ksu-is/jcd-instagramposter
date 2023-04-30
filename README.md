@@ -3,7 +3,7 @@ Instagram Post Scheduler
 This project is to create an Instagram Post Scheduler for a small business.
 
 ========
-<a href="https://www.instagram.com/sinha.py/"><img src="https://miro.medium.com/max/1400/1*zR-cuwIFJOpQjLHExqrFkA.png" alt="Auto Post"/></a>
+<a href="https://www.instagram.com/jumpingcatdesigns/"><img src="https://miro.medium.com/max/1400/1*zR-cuwIFJOpQjLHExqrFkA.png" alt="Auto Post"/></a>
 
 ## IMPORTANT NOTES
 
@@ -23,11 +23,11 @@ This project is to create an Instagram Post Scheduler for a small business.
 
 2) `password = 'PASSWORD'  # Enter your password here` [line:24]
 
-3) `file_path = r"C:\Users\P Sinha\Desktop\Capture.png"  # File Path Where Pic/Vid is Stored That You Want To Upload` [line:25]
+3) `file_path = r"C:\Users\uh\Desktop\jcdinstagramposter\Pictures\Artorias1.jpg"  # File Path Where Pic/Vid is Stored That You Want To Upload` [line:25]
 
 4) `timee = "21:44"  # Specific Time When The Post will be Posted` [line:92]
 
-5) `caption = 'Hi There, P Sinha this side !'  # Write Your Caption Here` [line:65]
+5) `caption = 'Hi There!'  # Write Your Caption Here` [line:65]
 
 Ensure that you have Chrome installed and the
 [`chromedriver` ](https://chromedriver.chromium.org/downloads) that matches
